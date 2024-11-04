@@ -14,7 +14,7 @@ import kelas.product;
 
 /**
  *
- * @author zainu
+ * @author zainul
  */
 public class frame_product extends javax.swing.JFrame {
 
